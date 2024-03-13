@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "boostrap",
+    "password": "BsTRdb!@!",
+    "database": "boostrap",
+    "timezone": "Asia/Seoul",
+    "host": "kooktoo-db.cvd4rqysi3gj.ap-northeast-2.rds.amazonaws.com",
+    "dialect": "mariadb"
+  },
+  "production": {
+    "username": "boostrep",
+    "password": "BsTRdb!@!",
+    "database": "boostrep",
+    "timezone": "Asia/Seoul",
+    "host": "localhost",
+    "dialect": "mariadb"
+  }
+}
